@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    padding-bottom: 188px !important;
+}
+
 
 .container {
     width: 100%;
